@@ -1,41 +1,44 @@
 body {
-  font-family: 'helvetica neue', arial, sans-serif;
-  font-weight: 300;
-  background-image: url(rCaEluo.jpg);
-  background-repeat:repeat-x;
-  background-color:blue;
+  background-image: url(platter.jpg);
+  background-size: 100%;
 }
+
 #wrapper {
   width: 600px;
-  margin: 200px auto 200px auto;
+  margin: 100px auto 100px auto;
 }
+
 h1{
 	color:red;
-}
-h1{
-	font-family:arial;
-	font-size:300;
-	text-align:right;
-	text-decoration: overline;
+	font-family:Trebuchet MS;
+	font-size:100;
+	text-align:center;
 	text-shadow:1px 1px 10px black;
-}
-h4{
-	color:green;
-}
-#summary{
-	color:orange;
-	border-color:green;
-	border-style: solid;
-	border-radius:5px;
-}
-.unicorns{
-	color:purple;
-}
-img{
-	width: 200px;
-	border-color:green;
-	border-style:green;
-}
-h1{
 	background-color:red;
 }
+
+#chili{
+	width: 300px;
+}
+
+h2{
+	color:#230303;
+
+}
+h3{color:#230303;}
+
+#love{color:red;
+}
+
+a{ color: blue
+}
+
+.recipes{
+	color:white;
+}
+
+h3{
+	text-align: left
+}
+
+
