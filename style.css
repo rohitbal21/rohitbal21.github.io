@@ -4,28 +4,30 @@ body {
 }
 
 #wrapper {
-  width: 600px;
-  margin: 100px auto 100px auto;
+  margin: 0 auto;
+}
+
+img {
+    max-width:100%;
+    max-height: 100%;
 }
 
 h1{
-	color:red;
-	font-family:Trebuchet MS;
+	padding-top: 40px;
+	color:yellow;
+	font-family:Verdana, Geneva, sans-serif;
 	font-size:100;
 	text-align:center;
 	text-shadow:1px 1px 10px black;
-	background-color:red;
+}
+
+h3{font-family: "Verdana", Geneva, sans-serif;
+	font-size: Large;
 }
 
 #chili{
-	width: 300px;
+	width: 200px;
 }
-
-h2{
-	color:#230303;
-
-}
-h3{color:#230303;}
 
 #love{color:red;
 }
@@ -33,12 +35,24 @@ h3{color:#230303;}
 a{ color: blue
 }
 
-.recipes{
-	color:white;
+#cooking {
+      margin-left: 100px;
+    }
+
+#spicerack{
+	style:height= 200px;
+}
+#body{
+	font-size: 16px;
 }
 
-h3{
-	text-align: left
+.jumbotron{background-color: #F5F5DC;}
+
+.caption{font-family: "Verdana", Geneva, sans-serif;
+	font-size: 10px;
+
+.follow{font-family: "Verdana", Geneva, sans-serif;
+	font-size: 40px;
+
+#twitter{width: 20px;
 }
-
-
