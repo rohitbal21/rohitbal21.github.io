@@ -56,6 +56,10 @@ a{ color: blue
 	max-width: 450px
 }
 
+#tux{
+	max-width: 450px
+}
+
 .jumbotron{background-color: #F5F5DC;}
 
 .caption{font-family: "Verdana", Geneva, sans-serif;
